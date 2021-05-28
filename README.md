@@ -1,4 +1,4 @@
-#Service Registry Microservice
+# Service Registry Microservice (Kotlin)
 
 http://localhost:8761
 
